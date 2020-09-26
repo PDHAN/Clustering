@@ -1,4 +1,4 @@
-# Clustering-Algorithms-
+# Clustering-Algorithms
 Author: Han Han <br>
 For K-Means Clustering:<br>
 data = pd.read_csv(r”C:\Users\mrj\Desktop\TwoDimHard.csv”)<br>
